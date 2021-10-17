@@ -1,1 +1,2 @@
 # ZodiacOs
+Mini-operation system
