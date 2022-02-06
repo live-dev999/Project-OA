@@ -1,2 +1,3 @@
-# ZodiacOs
+# ZodiacOS
+
 Mini-operating system
