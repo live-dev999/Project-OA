@@ -1,3 +1,3 @@
-# ZodiacOS
+# Project OA
 
 Mini-operating system
